@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a low-resource English-Bahnar Machine Translation Project 
+- 🌱 I’m currently learning NLP, Deep Learning
+- 🤔 I’m looking for help with research skills, and advice about NeuroScience
+- 💬 Ask me about concepts related to Machine Translation
+- 😄 Pronouns: She/her
 <!--
 **TraMiu/TraMiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
